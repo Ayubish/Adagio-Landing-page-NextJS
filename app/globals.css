@@ -18,7 +18,7 @@
     mask: linear-gradient(to right, black, black, transparent);
   }
   .btn-primary {
-    @apply rounded-xl px-[20px] py-[10px] bg-slate-900;
+    @apply rounded-3xl px-[20px] py-[10px] bg-black;
   }
   .btn-secondary {
     @apply rounded-3xl px-[20px] py-[10px] bg-white text-black;

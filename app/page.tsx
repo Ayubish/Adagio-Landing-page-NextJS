@@ -18,7 +18,7 @@ const Home = () => {
             <button className="btn-secondary my-4 mr-4">
               Get started for free
             </button>
-            <button className="btn-primary my-4 mr-4">Watch demo</button>
+            <button className="btn-primary my-4">Watch demo</button>
           </div>
           <div className="flex">
             <h2 className="flex flex-col mr-5">
