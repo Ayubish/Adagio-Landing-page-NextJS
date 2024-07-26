@@ -15,7 +15,7 @@
     background-size: cover, contain; */
   }
   .blur {
-    mask: linear-gradient(to right, black, transparent);
+    mask: linear-gradient(to right, black, black, transparent);
   }
   .btn-primary {
     @apply rounded-md px-[20px] py-[10-px] bg-slate-900;
